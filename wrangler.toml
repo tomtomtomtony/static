@@ -1,2 +1,2 @@
-name = "casdoor"  # 必填，且不能包含空格
+name = "casdoor_static"  # 必填，且不能包含空格
 compatibility_date = "2025-04-30"  # 建议填写当前日期
