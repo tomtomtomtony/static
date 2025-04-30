@@ -1,2 +1,3 @@
 name = "casdoor_static"  # 必填，且不能包含空格
 compatibility_date = "2025-04-30"  # 建议填写当前日期
+pages_build_output_dir = "./"  # 指向当前目录
